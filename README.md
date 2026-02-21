@@ -32,6 +32,8 @@ This project represents my current level of thinking about software architecture
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gam5510&layout=compact&theme=transparent&hide_border=true)
+
 ## 🛠 core stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
