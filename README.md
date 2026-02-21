@@ -32,8 +32,15 @@ This project represents my current level of thinking about software architecture
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gam5510&layout=compact&theme=transparent&hide_border=true)
+<div align="center">
 
+<img src="https://wakatime.com/badge/user/71ff10b5-35f5-4310-9cad-8e53603c348f.svg" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Gam5510&theme=tokyonight&hide_border=true" />
+
+</div>
 ## 🛠 core stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
