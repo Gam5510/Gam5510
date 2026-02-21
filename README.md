@@ -45,8 +45,7 @@ This project represents my current level of thinking about software architecture
 ---
 
 ## ⭐ Stars 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Gam5510&show_icons=true)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Gam5510)
 ## 🎯 long-term goal
 
 Build systems at scale.  
