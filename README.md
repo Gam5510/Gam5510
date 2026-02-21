@@ -45,7 +45,7 @@ This project represents my current level of thinking about software architecture
 ---
 
 ## ⭐ Stars 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gam5510&show_icons=true&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Gam5510&show_icons=true)
 
 ## 🎯 long-term goal
 
