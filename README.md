@@ -25,7 +25,7 @@ I enjoy:
 
 ## 🚀 main projects
 
-### Cloudy Display — client delivery & communication platform
+### [Cloudy Display](https://cloudydisplay.com) — client delivery & communication platform
 A file-sharing platform built for freelancers: client approval workflows, open tracking, branded sender profiles, OTP verification, Telegram notifications. Deployed on Kubernetes (k8s) with full production infra.
 
 ### ITDpy — unofficial Python SDK
