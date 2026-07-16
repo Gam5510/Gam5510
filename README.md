@@ -29,7 +29,7 @@ I enjoy:
 A file-sharing platform built for freelancers: client approval workflows, open tracking, branded sender profiles, OTP verification, Telegram notifications. Deployed on Kubernetes (k8s) with full production infra.
 
 ### ITDpy — unofficial Python SDK
-Clean structure, Pydantic v2 models, token-based auth, scalable architecture. 12k+ installs on PyPI.
+Clean structure, Pydantic v2 models, token-based auth, scalable architecture. 14k+ installs on PyPI.
 
 ---
 
