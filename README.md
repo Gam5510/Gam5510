@@ -35,7 +35,17 @@ Clean structure, Pydantic v2 models, token-based auth, scalable architecture. 12
 
 ## 📊 activity
 
-<!--START_SECTION:waka--> <!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+
+```txt
+JavaScript                 8 hrs                 ██████▒░░░░░░░░░░░░░░░░░░   25.24 %
+Python                     5 hrs 34 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
+YAML                       3 hrs 46 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
+Bash                       2 hrs 20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+HTML                       2 hrs 4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+```
+
+<!--END_SECTION:waka-->
 
 <div align="center">
 <img src="https://wakatime.com/badge/user/71ff10b5-35f5-4310-9cad-8e53603c348f.svg" />
